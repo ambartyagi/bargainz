@@ -1,0 +1,2 @@
+serviceClass: com.work.kbkd.client.GreetingService
+path: BC2C382B59E4E19E9D6A47C5452CF605.gwt.rpc

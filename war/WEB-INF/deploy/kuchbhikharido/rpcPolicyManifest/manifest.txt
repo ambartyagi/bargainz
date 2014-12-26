@@ -1,0 +1,3 @@
+# Module kuchbhikharido
+# RPC service class, partial path of RPC policy file
+com.work.kbkd.client.GreetingService, BC2C382B59E4E19E9D6A47C5452CF605.gwt.rpc
